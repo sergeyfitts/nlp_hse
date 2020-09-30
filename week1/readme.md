@@ -10,7 +10,7 @@
 - word2vec(optional) <br>
 
 ### requirements (python3)
-- [Anaconda](https://www.anaconda.com/) ["for humans"] <br>
+- [Anaconda](https://www.anaconda.com/) <br>
 - [Google colab](https://colab.research.google.com/notebooks/intro.ipynb) <br>
 - [PyCharm](https://www.jetbrains.com/ru-ru/pycharm/)
 

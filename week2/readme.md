@@ -2,6 +2,7 @@
 ----
 <br>
 - BOW <br>
+- tokenization <br>
 - lemmatization <br> 
 - stemming <br>
 - tfidf <br>
@@ -13,3 +14,7 @@
 - [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html) <br>
 - [pymystem](https://pypi.org/project/pymystem3/)
 - [NLTK](https://www.nltk.org/)
+
+### links 
+- [video lectures](https://youtu.be/K7wKo1EU62Y)
+- [comparison of limatization by libraries](https://www.machinelearningplus.com/nlp/lemmatization-examples-python/#stanfordcorenlplemmatization)

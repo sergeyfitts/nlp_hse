@@ -1,13 +1,11 @@
 # intro
 ----
 <br>
-- BOW <br>
-- tokenization <br>
-- lemmatization <br> 
-- stemming <br>
-- tfidf <br>
-- n-grams <br>
-- word2vec(optional) <br>
+- brief history <br>
+- steps for processing <br>
+- lenguage models<br> 
+- Sintiments and topics <br>
+- Chatbots <br>
 
 ### requirements (python3)
 - [Anaconda](https://www.anaconda.com/) <br>

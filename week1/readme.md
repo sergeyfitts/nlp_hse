@@ -4,8 +4,8 @@
 - brief history <br>
 - steps for processing <br>
 - lenguage models<br> 
-- Sintiments and topics <br>
-- Chatbots <br>
+- sintiments and topics <br>
+- chatbots <br>
 
 ### requirements (python3)
 - [Anaconda](https://www.anaconda.com/) <br>

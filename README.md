@@ -4,3 +4,5 @@
 По всем вопросам, пожалуйста, пишите: <br><br>
 telegram: @mr_fitts <br>
 mail: sergeyfitts@gmail.com
+
+P.S. [Highly recommend](https://github.com/kk7nc/Text_Classification)
